@@ -1,4 +1,4 @@
-* Used to develop and test guass elimination method
+* Used to develop and test guass elimination method.
       program guassProgram
         implicit none
         integer :: i, j, k, var
